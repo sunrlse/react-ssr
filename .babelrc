@@ -1,0 +1,10 @@
+{
+  // babel支持的语法
+  "presets": [
+    ["es2015", { "loose": true}], // 松散的
+    "react"
+  ],
+  "plugins": [
+    "react-hot-loader/babel"
+  ]
+}
